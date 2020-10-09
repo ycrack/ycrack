@@ -2,7 +2,6 @@
 
 ## Stats
 [![ycrack's github stats](https://github-readme-stats.vercel.app/api?username=ycrack&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ycrack&langs_count=8&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
